@@ -6,7 +6,7 @@ spring:
     name: api-bills
   data:
     mongodb:
-      database: moviesdevmongo
+      database: billsdevmongo
       port: 27017
       host: localhost
       
